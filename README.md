@@ -15,6 +15,26 @@
 
 ---
 
+## 📥 Download App
+
+<div align="center">
+  
+### 🚀 Ready to use? Download the APK now!
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1EVelI2ZECq2dn6QKYnh4_OXroLZoLzKB/view?usp=sharing)
+
+**📱 Quick Install:**
+1. Click the download button above
+2. Download the APK file to your Android device
+3. Enable "Install from unknown sources" in your device settings
+4. Install and enjoy scanning!
+
+*Compatible with Android 5.0 (API level 21) and above*
+
+</div>
+
+---
+
 ## ✨ Features
 
 🔍 **Multi-Format Support**
@@ -83,7 +103,15 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 📱 For Users (Quick Start)
+
+**Want to try the app immediately?**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=flat-square&logo=android)](https://drive.google.com/file/d/1EVelI2ZECq2dn6QKYnh4_OXroLZoLzKB/view?usp=sharing)
+
+### 👨‍💻 For Developers
+
+#### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
